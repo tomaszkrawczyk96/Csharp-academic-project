@@ -1,0 +1,9 @@
+C:\Users\Tomek Krawczyk\Desktop\Nowy folder\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\Tomek Krawczyk\Desktop\Nowy folder\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\Tomek Krawczyk\Desktop\Nowy folder\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\Tomek Krawczyk\Desktop\Nowy folder\ConsoleApp2\ConsoleApp2\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Tomek Krawczyk\Desktop\Nowy folder\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+C:\Users\Tomek Krawczyk\Desktop\Nowy folder\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\Tomek Krawczyk\Desktop\Nowy folder\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CopyComplete
+C:\Users\Tomek Krawczyk\Desktop\Nowy folder\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\Tomek Krawczyk\Desktop\Nowy folder\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
